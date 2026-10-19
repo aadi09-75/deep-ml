@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:53:35.504Z",
+  "generated_at": "2026-10-19T21:08:48.826Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-10-19T20:53:34.739Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-10-19T21:08:48.019Z",
+      "last_pushed_at": "2026-10-19T21:08:48.019Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
