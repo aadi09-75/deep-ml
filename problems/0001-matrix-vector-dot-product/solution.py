@@ -1,0 +1,12 @@
+def matrix_dot_vector(a,b):
+    if len(a[0]) != len(b):
+        return -1
+    
+    result = []
+    
+    for row in a: 
+        dot_product = sum(x*y for x,y in zip(row,b))
+        result.append(dot_product)
+    
+    return result     
+        
